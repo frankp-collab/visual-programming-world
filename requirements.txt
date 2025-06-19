@@ -1,0 +1,20 @@
+# Visual Programming World - Python Dependencies
+
+# Core Python libraries (usually included with Python)
+# turtle - Graphics library for visual programming
+# random - Random number generation for games
+# time - Time delays for animations
+# math - Mathematical functions for advanced graphics
+
+# Optional enhancements for advanced features
+pygame>=2.0.0          # For sound effects and advanced game development
+pillow>=8.0.0          # For image processing and saving graphics
+matplotlib>=3.3.0      # For data visualization exercises
+
+# Development tools (optional for contributors)
+black>=21.0.0          # Code formatting
+pytest>=6.0.0         # Testing framework for code examples
+
+# Note: Most examples only need Python's built-in libraries!
+# Install optional packages only if you want advanced features:
+# pip install pygame pillow matplotlib
